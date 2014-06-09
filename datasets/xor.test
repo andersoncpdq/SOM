@@ -1,0 +1,7 @@
+# numberOfExamples | numberOfAtributes | numberOfTarget
+4 2 1
+# XOR: atributes I1..In | target S1..Sn
+1 0 1
+1 1 0
+0 1 1
+0 0 0
